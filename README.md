@@ -3,6 +3,8 @@
 
 Color Switch (ColSw) is a program for CC:Tweaked for quickly editing your current palette.
 
+Gist can be found [here](https://gist.github.com/simadude/f6586c9f0ea23adf0d90474264618359)
+
 Usage:
 ```
 colsw apply [PATH]; applies the palette from the file and quits.
