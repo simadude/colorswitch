@@ -1,7 +1,7 @@
-# Color Switcher for CC:Tweaked
+# Color Switch for CC:Tweaked
 ![Screenshot of the Color Switcher program](screenshot.png)
 
-Color Switcher (ColSw) is a program for CC:Tweaked for quickly editing your current palette.
+Color Switch (ColSw) is a program for CC:Tweaked for quickly editing your current palette.
 
 Usage:
 ```
